@@ -10,4 +10,4 @@
 
 `npm install -g karma-cli`
 
-`karma start`
+`karma start`# question-6
