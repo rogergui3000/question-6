@@ -1,3 +1,4 @@
+###  angularjs app that uses angular­pouchdb
 ### Setup
 
 `nvm use 5.0`
